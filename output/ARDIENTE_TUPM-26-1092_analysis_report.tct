@@ -1,0 +1,18 @@
+SEACOM NUMERICAL DATA ANALYSIS
+Student: ARDIENTE
+Student ID: TUPM-26-1092
+Random Seed: 261092
+Verification Value: 162
+Sample Size: 220
+Assgined Features: Feature_184,Feature_011,Feature_222,Feature_444,Feature_455
+Pass Records: 205
+Fail Records: 15
+Sample Failure: 6.818181818181818
+Highest -SD Feature: Feature_455
+Highest Sample SD: 0.9359
+Verification: PASSED
+
+Interpretation Notes:
+-Median imputation supports descriptive analysis.
+-Raw Variability does not imply feature importance.
+-Group differences do not establish failure causes.
